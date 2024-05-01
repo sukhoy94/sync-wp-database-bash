@@ -128,3 +128,5 @@ make sync_remote_db
 - Prints a message indicating that the migration is complete.
 
 
+## Backups Result Screenshot
+![Backup Screenshot](https://github.com/sukhoy94/sync-wp-database-bash/blob/main/backups_screenshot.jpeg)
